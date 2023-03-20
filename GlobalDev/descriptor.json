@@ -1,0 +1,17 @@
+﻿{
+  "Descriptor": {
+    "UId": "738581cf-01bb-aa9f-60d5-a6fd64f83c6a",
+    "Name": "GlobalDev",
+    "Type": 1,
+    "ModifiedOnUtc": "\/Date(1679323821000)\/",
+    "Maintainer": "Customer",
+    "ProjectPath": "Files/GlobalDev.csproj",
+    "DependsOn": [
+      {
+        "UId": "99707b27-fb9d-4a8d-a9ce-313a68e7423f",
+        "PackageVersion": "7.8.0",
+        "Name": "ServiceEnterpriseSoftkey"
+      }
+    ]
+  }
+}
