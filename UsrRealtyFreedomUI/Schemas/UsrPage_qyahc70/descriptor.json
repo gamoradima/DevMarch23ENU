@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "2e1307b4-c00a-4c03-92bb-097f2f113b25",
+    "Name": "UsrPage_qyahc70",
+    "ModifiedOnUtc": "\/Date(1679670891000)\/",
+    "Parent": {
+      "UId": "3b2e117f-8c6b-4ca5-80a2-7ebb497cddf9",
+      "Name": "PageWithTabsFreedomTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Realty visit (Freedom UI) form page"
+  }
+}

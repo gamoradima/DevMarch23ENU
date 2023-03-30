@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Realty FreedomUI form page" />
+			<Item Name="LocalizableStrings.addRecord_9mepgzh_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_yxg9tf7_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.Button_3lsmkma_caption.Value" Value="Button" />
+			<Item Name="LocalizableStrings.Button_hy6s526_caption.Value" Value="Run service" />
+			<Item Name="LocalizableStrings.Button_p1lv1l7_caption.Value" Value="Push!" />
+			<Item Name="LocalizableStrings.ExpansionPanel_x2bz1vu_title.Value" Value="Realty visit (Freedom UI)" />
+			<Item Name="LocalizableStrings.GridDetailAddBtn_3fj63jm_caption.Value" Value="New" />
+			<Item Name="LocalizableStrings.GridDetailExportDataBtn_0fh5fxl_caption.Value" Value="Export to Excel" />
+			<Item Name="LocalizableStrings.GridDetailImportDataBtn_ajpf61q_caption.Value" Value="Data import" />
+			<Item Name="LocalizableStrings.GridDetailRefreshBtn_icdkp05_caption.Value" Value="Refresh" />
+			<Item Name="LocalizableStrings.GridDetailSearchFilter_hzx1uv7_placeholder.Value" Value="Search" />
+			<Item Name="LocalizableStrings.GridDetailSettingsBtn_h5eq6ha_caption.Value" Value="Actions" />
+			<Item Name="LocalizableStrings.RunServiceButton_caption.Value" Value="Run service" />
+			<Item Name="LocalizableStrings.TabContainer_7qq3tvi_caption.Value" Value="Tab 2" />
+			<Item Name="LocalizableStrings.TabContainer_v6yrzbh_caption.Value" Value="Visits" />
+		</Items>
+	</Group>
+</Resources>

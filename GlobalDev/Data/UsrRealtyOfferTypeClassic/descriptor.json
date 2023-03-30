@@ -2,7 +2,7 @@
   "Descriptor": {
     "UId": "d0a8eaa1-07cf-e6ee-6309-839fafd092f3",
     "Name": "UsrRealtyOfferTypeClassic",
-    "ModifiedOnUtc": "\/Date(1679414822000)\/",
+    "ModifiedOnUtc": "\/Date(1679584926000)\/",
     "InstallType": 0,
     "Schema": {
       "UId": "b7e79fcd-438e-4c80-aa9b-0eca5fb1df7f",
@@ -22,6 +22,13 @@
         "IsKey": false,
         "ColumnName": "Name",
         "DataTypeValueUId": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
+      },
+      {
+        "ColumnUId": "0ad05e7c-a206-92e9-05a5-6626e7fcc5d6",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "UsrCommissionMultiplier",
+        "DataTypeValueUId": "ff22e049-4d16-46ee-a529-92d8808932dc"
       },
       {
         "ColumnUId": "9e53fd7c-dde4-4502-a64c-b9e34148108b",

@@ -3,10 +3,16 @@
     "UId": "738581cf-01bb-aa9f-60d5-a6fd64f83c6a",
     "Name": "GlobalDev",
     "Type": 1,
-    "ModifiedOnUtc": "\/Date(1679323821000)\/",
+    "ModifiedOnUtc": "\/Date(1680012594000)\/",
     "Maintainer": "Customer",
     "ProjectPath": "Files/GlobalDev.csproj",
     "DependsOn": [
+      {
+        "UId": "012e2e14-082b-ac2b-da5a-2fc87bad41d4",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtCore",
+        "Type": 1
+      },
       {
         "UId": "99707b27-fb9d-4a8d-a9ce-313a68e7423f",
         "PackageVersion": "7.8.0",

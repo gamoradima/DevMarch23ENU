@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Avg Price Calculation Output Page" />
+			<Item Name="LocalizableStrings.Button1ButtonCaption.Value" Value="Button 1" />
+			<Item Name="Parameters.55876eb2-d422-4c41-b60e-86b28a3a58a1.Caption" Value="Avg price, USD" />
+			<Item Name="Parameters.c49bd85e-159a-49ee-b10a-3c3bca63d7d5.Value.c4841740-ff8c-406f-8626-1c78f78608bf.Caption" Value="Close" />
+			<Item Name="Parameters.c49bd85e-159a-49ee-b10a-3c3bca63d7d5.Value.e522234f-c5aa-4fc0-9d2b-4d990f3d7a52.Caption" Value="Button 1" />
+			<Item Name="Parameters.c49bd85e-159a-49ee-b10a-3c3bca63d7d5.Value.f073e66a-36ec-47d7-9c6a-e5952dbf05a3.Caption" Value="Save" />
+			<Item Name="Parameters.eb579744-70d6-4521-8174-c82cc8edb5c5.Caption" Value="SQL text" />
+		</Items>
+	</Group>
+</Resources>

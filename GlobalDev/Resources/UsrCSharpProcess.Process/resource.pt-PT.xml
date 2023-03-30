@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="pt-PT">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.Title.Value" Value="Avg Price Calculation Output Page" />
+			<Item Name="Caption" Value="CSharp example process" />
+		</Items>
+	</Group>
+</Resources>

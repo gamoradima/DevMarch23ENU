@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="AddonConfig.Rules.446a44c3-da6e-a8ed-5e18-c3c2b68cca7e.Caption" Value="Hide elements: Comment" />
+			<Item Name="AddonConfig.Rules.a52d1e6a-f499-5fcb-9768-50ca34c08598.Caption" Value="Show elements: Comment" />
+			<Item Name="Caption" Value="Realty FreedomUI form page (Business rules)" />
+		</Items>
+	</Group>
+</Resources>
